@@ -2,3 +2,5 @@ pillow
 numpy
 Flask
 gunicorn
+requests
+jsonify
